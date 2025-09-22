@@ -61,7 +61,7 @@ print(type(x + y))
 
 ```python
 num = float(input("Enter a number: "))
-print("Double is:", num * 2)
+print("If I double it, I'll get:", num * 2)
 ```
 
 ---
