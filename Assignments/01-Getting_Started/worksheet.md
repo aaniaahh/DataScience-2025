@@ -36,8 +36,8 @@ print("Aniah Myles, and my favorite number is 8")
 
 ### ✏️ Task: URL Check
 
-Paste the link to your GitHub notebook here:  
-`Link:` [Click here](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/Notebook.ipynb)
+Paste the link to your GitHub notebook here: 
+[Click here](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/Notebook.ipynb)
 ---
 
 ## 📊 Section 3: Python Basics
@@ -68,6 +68,6 @@ print("Double is:", num * 2)
 
 ## 🧾 Submit Checklist
 
-- [ ] I can open and edit notebooks in Colab.
-- [ ] I have uploaded a notebook to GitHub.
-- [ ] I practiced using basic Python code (variables, types, arithmetic).
+- [x] I can open and edit notebooks in Colab.
+- [x] I have uploaded a notebook to GitHub.
+- [x] I practiced using basic Python code (variables, types, arithmetic).
