@@ -37,7 +37,7 @@ print("Aniah Myles, and my favorite number is 8")
 ### ✏️ Task: URL Check
 
 Paste the link to your GitHub notebook here:  
-`Link:` [](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/Notebook.ipynb)
+`Link:` [Click here](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/Notebook.ipynb)
 ---
 
 ## 📊 Section 3: Python Basics
