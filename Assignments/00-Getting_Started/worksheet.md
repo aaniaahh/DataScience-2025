@@ -1,25 +1,22 @@
 # 📝 Worksheet: 01 - Getting Started with Data Science
 
-This worksheet guides you through key tasks and questions for each topic in this module. Use it to take notes, practice, and review before submitting your assignments.
-
----
-
 ## 🧠 Section 1: Google Colab
 
 1. What is the primary difference between Colab and Jupyter Notebook on your local machine?  
-   `Answer:` ______________________________________
+   `Answer:` Colab requires only a browser, while Jupyter requires installation of Python/Jupyter.
 
 2. How do you save a notebook to your own Google Drive?  
-   `Answer:` ______________________________________
+   `Answer:` Click File → Save a copy in Drive in Colab.
 
 3. In Colab, how do you add a new Markdown cell?
-
+   `Answer:` Click + Text (or use the keyboard shortcut Ctrl+M M).
 ---
 
 ### ✏️ Task: Code Practice
 
 ```python
-# Write a Python statement that prints your full name and your favorite number.
+print("Aniah Myles, favorite number is 8")
+
 ```
 
 ---
@@ -27,13 +24,13 @@ This worksheet guides you through key tasks and questions for each topic in this
 ## 🔗 Section 2: GitHub + Colab Workflow
 
 4. What are the steps to upload a notebook to GitHub?  
-   `Answer:` ______________________________________
+   `Answer:` Open the notebook → File → Save a copy to GitHub → choose repository and add a commit message → click OK.
 
 5. What does "commit" mean in the context of GitHub?  
-   `Answer:` ______________________________________
+   `Answer:` A commit is saving changes to the repository with a message describing what was changed.
 
 6. How do you open a GitHub notebook in Colab?  
-   `Answer:` ______________________________________
+   `Answer:` Go to Colab → File → Open Notebook → GitHub tab → paste the repo URL → select the notebook.
 
 ---
 
@@ -47,7 +44,7 @@ Paste the link to your GitHub notebook here:
 ## 📊 Section 3: Python Basics
 
 7. What are the four primary Python data types you've used so far?  
-   `Answer:` _______________________________
+   `Answer:` int, float, str, and bool.
 
 8. What’s the output of this code?
 
@@ -64,7 +61,8 @@ print(type(x + y))
 ### ✏️ Task: Input + Output
 
 ```python
-# Write code to ask the user for a number and double it.
+num = float(input("Enter a number: "))
+print("Double is:", num * 2)
 ```
 
 ---
