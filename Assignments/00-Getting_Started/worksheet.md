@@ -9,6 +9,7 @@
    `Answer:` Click File → Save a copy in Drive in Colab.
 
 3. In Colab, how do you add a new Markdown cell?
+
    `Answer:` Click + Text (or use the keyboard shortcut Ctrl+M M).
 ---
 
