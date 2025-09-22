@@ -33,8 +33,7 @@ Go to Google Colab → File → Open Notebook → GitHub tab → paste the GitHu
 
 ### 5. What is the difference between `//` and `/` in Python?
 ```text
-* `/` performs floating-point division (a decimal).
-
-*  `//` performs floor division (the integer part rounded down).
+1. `/` performs floating-point division (a decimal).
+2. `//` performs floor division (the integer part rounded down).
 
 ```
