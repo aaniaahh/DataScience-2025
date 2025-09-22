@@ -1,38 +1,40 @@
 # ❓ Mini Quiz: 01 - Getting Started
 
-Test your knowledge! Write your answers in the spaces provided or use them as review questions.
-
 ---
 
 ### 1. What command prints text in Python?
 ```python
-# Your answer:
+print("Hi, my name is Aniah.")
 ```
 
 ---
 
 ### 2. Which data type is used to represent decimal numbers?
 ```python
-# Your answer:
+float 150
 ```
 
 ---
 
 ### 3. How do you open a notebook from GitHub into Google Colab?
 ```text
-Your answer:
+Go to Google Colab → File → Open Notebook → GitHub tab → paste the GitHub URL → select the notebook.
+
 ```
 
 ---
 
 ### 4. What Python operator is used for exponentiation?
 ```python
-# Your answer:
+**
 ```
 
 ---
 
 ### 5. What is the difference between `//` and `/` in Python?
 ```text
-Your answer:
+* `/` performs floating-point division (a decimal).
+
+*  `//` performs floor division (the integer part rounded down).
+
 ```
