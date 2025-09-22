@@ -7,14 +7,10 @@
 print("Hi, my name is Aniah.")
 ```
 
----
-
 ### 2. Which data type is used to represent decimal numbers?
 ```python
 float 150
 ```
-
----
 
 ### 3. How do you open a notebook from GitHub into Google Colab?
 ```text
@@ -22,14 +18,10 @@ Go to Google Colab → File → Open Notebook → GitHub tab → paste the GitHu
 
 ```
 
----
-
 ### 4. What Python operator is used for exponentiation?
 ```python
 **
 ```
-
----
 
 ### 5. What is the difference between `//` and `/` in Python?
 ```text
