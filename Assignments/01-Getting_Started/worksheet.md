@@ -51,9 +51,8 @@ Paste the link to your GitHub notebook here:
 x = 10
 y = 2.5
 print(type(x + y))
-<class 'float'> // the answer
 ```
-
+`Answer:` <class 'float'> 
 ---
 
 ### ✏️ Task: Input + Output
