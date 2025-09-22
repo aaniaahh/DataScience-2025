@@ -52,8 +52,9 @@ x = 10
 y = 2.5
 print(type(x + y))
 ```
-
-`Answer:` <class 'float'> 
+```python 
+ <class 'float'> 
+```
 ---
 
 ### ✏️ Task: Input + Output
