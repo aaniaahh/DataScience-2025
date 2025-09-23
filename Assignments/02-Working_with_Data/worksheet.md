@@ -81,7 +81,11 @@ print(c)
 
 ```python
 # Create a dictionary with keys: 'name', 'age', and 'hobby'.
+person = {"name": "Aniah", "age": 23, "hobby": "basketball"}
+
 # Print each key and value in the format "key: value".
+for key, value in person.items():
+    print(f"{key}: {value}")
 ```
 
 ---
@@ -89,5 +93,5 @@ print(c)
 ## 🧾 Submit Checklist
 
 - [ ] I practiced creating and modifying lists.
-- [ ] I understand how tuples are different from lists.
+- [x] I understand how tuples are different from lists.
 - [ ] I accessed and looped through dictionary items.
