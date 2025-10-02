@@ -1,4 +1,4 @@
-#  Glossary: 02 - Working with Data
+#  📚 Glossary: 02 - Working with Data
 
 Dictionary
 A collection of key-value pairs. Created with curly braces {}.
