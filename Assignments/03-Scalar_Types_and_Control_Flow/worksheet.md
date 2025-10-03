@@ -84,3 +84,16 @@ Write a program that asks for the weather and prints:
 - "Bring sunscreen" if it's sunny
 - "Take an umbrella" if it's raining
 - "Check the forecast" otherwise
+
+``` python
+# Ask for grade input
+weather = int(input('What is the weather like today? '))
+
+# Use if else statement to give grade letter
+if weather == "sunny":
+  print("Bring sunscreen!")
+elif weather == "rainy":
+  print("Take an umbrella.")
+else:
+  print("Check the forecast.")
+```
