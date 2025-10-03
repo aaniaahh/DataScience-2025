@@ -25,15 +25,13 @@ print(type(x))
 ### ✏️ Task: Type Practice
 
 ```python
-# Create a variable for each type and print its value and type
-# Example: an int, float, str, and bool
-# Create a variable for each type and print its value and type
-
+# Create a variable for each type
 age = 36          # int
 height = 6.2      # float
 name = "Chris"    # str
 passed = True     # bool
 
+# Print its value and type
 print(age, type(age))
 print(height, type(height))
 print(name, type(name))
@@ -57,7 +55,7 @@ b = 3
 print(a < b or b < 10)
 ```
 
-`Answer:` True, because 5 < 3 = False OR 3 < 10 so False or True = True.
+`Answer:` True. Because 5 < 3 = False **OR** 3 < 10 = True. Hence False or True = True.
 
 ---
 
@@ -68,7 +66,7 @@ print(a < b or b < 10)
 ```python
 if grade >= 70:
     print("Pass")
-elif:
+else:
 print("Fail")
 ```
 
