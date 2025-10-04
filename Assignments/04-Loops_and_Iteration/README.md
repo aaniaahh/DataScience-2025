@@ -17,7 +17,7 @@ This module explores looping in Python using `for` and `while` loops. You'll als
 
 ## 🧠 Learning Goals
 
-* Use for loops with range() and iterables
-* Control loop repetition using while and boolean conditions
-* Use break and continue to manage loop flow
-* Read files using with open(...) as f: and iterate over lines
+* Use `for` loops with `range()` and iterables
+* Control loop repetition using `while` and boolean conditions
+* Use `break` and `continue` to manage loop flow
+* Read files using `with open(...) as f:` and iterate over lines
