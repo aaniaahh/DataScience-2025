@@ -1,19 +1,19 @@
 #  📚 Glossary: 02 - Working with Data
 
 Dictionary
-A collection of key-value pairs. Created with curly braces {}.
+A collection of key-value pairs. Created with curly braces `{}`.
 
 Indexing
 Accessing elements in lists and tuples using their position.
 
 List
-A mutable, ordered collection of items. Created with square brackets [].
+A mutable, ordered collection of items. Created with square brackets `[]`.
 
 Slicing
-Using [start:stop] syntax to get parts of a list or tuple.
+Using `[start:stop]` syntax to get parts of a list or tuple.
 
 Tuple
-An immutable, ordered collection of items. Created with parentheses ().
+An immutable, ordered collection of items. Created with parentheses `()`.
 
 append()
 List method to add a new item to the end.
