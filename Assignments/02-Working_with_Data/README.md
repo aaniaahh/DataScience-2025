@@ -7,9 +7,9 @@ In this module, you'll learn how to manipulate and explore Python collections: l
 ## 🔗 Assignments
 | Notebook |	Description |
 |-----|----------|
-| [01-Lists.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/01_Lists.ipynb) | Learn how to create and manipulate lists using indexing, slicing, and built-in methods.|
-| [02-Tuples.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/02_Tuples.ipynb) | Understand tuples, their immutability, and when to use them. |
-| [03-Dictionaries.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/03_Dictionaries.ipynb) |	Practice creating and accessing key-value pairs with dictionaries. |
+| [01-Lists.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/02-Working_with_Data/01_Lists.ipynb) | Learn how to create and manipulate lists using indexing, slicing, and built-in methods.|
+| [02-Tuples.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/02-Working_with_Data/02_Tuples.ipynb) | Understand tuples, their immutability, and when to use them. |
+| [03-Dictionaries.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/02-Working_with_Data/03_Dictionaries.ipynb) |	Practice creating and accessing key-value pairs with dictionaries. |
 
 ---
 
