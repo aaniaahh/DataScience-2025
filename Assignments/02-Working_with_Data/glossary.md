@@ -1,28 +1,28 @@
 #  📚 Glossary: 02 - Working with Data
 
-append():
+**append():**
 List method to add a new item to the end.
 
-Dictionary:
+**Dictionary:**
 A collection of key-value pairs. Created with curly braces `{}`.
 
-get():
+**get():**
 Dictionary method to safely retrieve a value by key, with an optional default.
 
-Indexing:
+**Indexing:**
 Accessing elements in lists and tuples using their position.
 
-items():
+**items():**
 Dictionary method that returns a view of key-value pairs.
 
-List:
+**List:**
 A mutable, ordered collection of items. Created with square brackets `[]`.
 
-remove():
+**remove():**
 List method to remove an item by value.
 
-Slicing:
+**Slicing:**
 Using `[start:stop]` syntax to get parts of a list or tuple.
 
-Tuple:
+**Tuple:**
 An immutable, ordered collection of items. Created with parentheses `()`.
