@@ -1,6 +1,6 @@
-# 📂 Module 02: Working with Data
+# 📂 Module 03: Scalar Types and Control Flow
 
-In this module, you'll learn how to manipulate and explore Python collections: lists, dictionaries, and tuples. These are the essential data containers used in real-world data science tasks.
+This module combines a review of scalar data types (`int`, `float`, `str`, `bool`) with an introduction to Python control flow using `if`, `elif`, and `else`.
 
 ---
 
