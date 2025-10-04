@@ -7,7 +7,7 @@ These lessons move beyond basic Python and introduce Jupyter, data handling, plo
 
 ## 📚 Notebooks
 
-1. [01-magic_commands.ipynb]()
+1. [01-magic_commands.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/01_magic_commands.ipynb)
 Explore IPython magic commands like `%time`, `%pwd`, and `%whos`.
 
 2. [02-markdown_and_formatting.ipynb]()
