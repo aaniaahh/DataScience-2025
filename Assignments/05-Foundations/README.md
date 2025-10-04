@@ -10,10 +10,10 @@ These lessons move beyond basic Python and introduce Jupyter, data handling, plo
 1. [01-magic_commands.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/01_magic_commands.ipynb)
 Explore IPython magic commands like `%time`, `%pwd`, and `%whos`.
 
-2. [02-markdown_and_formatting.ipynb]()
+2. [02-markdown_and_formatting.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/02_markdown_and_formatting.ipynb)
 Learn Markdown basics: headings, lists, links, images, and LaTeX math.
 
-3. [03-working_with_files_and_paths.ipynb]()
+3. [03-working_with_files_and_paths.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/03_working_with_files_and_paths.ipynb)
 Work with files and directories using `%pwd`, `open()`, JSON, and CSV.
 
 4. [04-data_input_output.ipynb]()
