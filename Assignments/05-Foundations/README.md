@@ -31,10 +31,15 @@ Use `?`, `??`, `help()`, and tab completion to explore documentation.
 8. [08-timing_and_performance.ipynb]()
 Compare runtime of loops, list comprehensions, and NumPy with `%timeit`.
 
+---
+
 ## 📝 Assessment
 
 [Foundations_Quiz.ipynb]() – 10 questions covering all Foundations topics.
+
 [Foundations_Glossary.md]() – Key terms and definitions for quick reference.
+
+---
 
 ## 🚀 Workflow Reminder
 
