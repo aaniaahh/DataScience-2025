@@ -9,9 +9,9 @@ This module explores looping in Python using `for` and `while` loops. You'll als
 
 |Notebook	| Description|
 |---|---|
-|[01-For_Loops.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/01_For_Loops.ipynb) | Use for loops to iterate over lists, ranges, and strings.
-|[02-While_Loops.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/02_While_Loops.ipynb) |	Use while loops for repeating logic with conditions.
-|[03-File_Loops_and_With.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/03_File_Loops_and_With.ipynb) |	Read files safely using with, and process lines using loops.
+|[01-For_Loops.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/04-Loops_and_Iteration/01_For_Loops.ipynb) | Use for loops to iterate over lists, ranges, and strings.
+|[02-While_Loops.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/04-Loops_and_Iteration/02_While_Loops.ipynb) |	Use while loops for repeating logic with conditions.
+|[03-File_Loops_and_With.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/04-Loops_and_Iteration/03_File_Loops_and_With.ipynb) |	Read files safely using with, and process lines using loops.
 
 ---
 
