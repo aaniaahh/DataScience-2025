@@ -8,9 +8,15 @@ This course integrates hands-on coding with conceptual understanding and light m
 
 ---
 
+# 📂 Assignments
+The worksheets and mini quizzes will be located in the [Assignments](https://github.com/aaniaahh/DataScience-2025/tree/main/Assignments) folder.
+
+
+---
+
 ## 📚 Notebooks
-The notebooks will be created in [Colab](https://colab.research.google.com/), then copied and placed in the [Completed](https://github.com/aaniaahh/DataScience-2025/tree/main/Completed) folder
-on my [GitHub](https://github.com/aaniaahh/DataScience-2025/tree/main) page.
+
+The notebooks will be created in Google Colab, then located in the [Completed](https://github.com/aaniaahh/DataScience-2025/tree/main/Completed) folder as a copy.
 
 ---
 
