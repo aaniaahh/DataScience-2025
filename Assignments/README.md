@@ -3,58 +3,57 @@ This directory contains all assignments for the course, organized by topic and p
 
 ---
 
-🧭 00-StartHere
-Purpose: Help you get your environment set up and learn how to use GitHub, Colab, and Jupyter Notebooks effectively.
+## 🧭 00-StartHere
+**Purpose:** Help you get your environment set up and learn how to use GitHub, Colab, and Jupyter Notebooks effectively.
 
-✅ Set up GitHub and clone the course repo
-✅ Learn how to launch notebooks via Colab
-✅ Understand file structure and naming conventions
-
----
-
-🚀 01-Getting_Started
-Focus: Introduction to Python basics, variables, arithmetic, and types.
-
-Practice using Python as a calculator
-Learn about different scalar types (int, float, str, bool)
-Get comfortable using cells in a notebook
-
+* ✅ Set up GitHub and clone the course repo
+* ✅ Learn how to launch notebooks via Colab
+* ✅ Understand file structure and naming conventions
 
 ---
 
-📊 02-Working_with_Data
-Focus: Lists, dictionaries, tuples, sets, and introductory pandas structures.
+## 🚀 01-Getting_Started
+**Focus:** Introduction to Python basics, variables, arithmetic, and types.
 
-Understand native containers and when to use each
-Begin working with Series and DataFrames in pandas
-Practice creating, accessing, and modifying data
-
----
-
-⚙️ 03-Scalar_Types_and_Control_Flow
-Focus: Booleans, conditionals, comparisons, and if/else logic.
-
-Learn how to build conditional logic
-Write code that makes decisions
-Practice combining comparison operators and logical operators
+* Practice using Python as a calculator
+* Learn about different scalar types (int, float, str, bool)
+* Get comfortable using cells in a notebook
 
 ---
 
-🔁 04-Loops_and_Iteration
-Focus: for and while loops, iteration patterns, and file processing.
+## 📊 02-Working_with_Data
+**Focus:** Lists, dictionaries, tuples, sets, and introductory pandas structures.
 
-Write loops to process lists and ranges
-Read and loop through lines in a file using with open(...)
-Understand and apply nested loops and loop control keywords
+* Understand native containers and when to use each
+* Begin working with Series and DataFrames in pandas
+* Practice creating, accessing, and modifying data
+
+---
+
+## ⚙️ 03-Scalar_Types_and_Control_Flow
+**Focus:** Booleans, conditionals, comparisons, and if/else logic.
+
+* Learn how to build conditional logic
+* Write code that makes decisions
+* Practice combining comparison operators and logical operators
+
+---
+
+## 🔁 04-Loops_and_Iteration
+**Focus:** for and while loops, iteration patterns, and file processing.
+
+* Write loops to process lists and ranges
+* Read and loop through lines in a file using with open(...)
+* Understand and apply nested loops and loop control keywords
 
 ---
 
 ## 🧱 05-Foundations
 Focus: Productivity and tooling inside Jupyter Notebooks.
 
-Use magic commands (%time, %timeit, %pwd, etc.)
-Write rich Markdown for documentation and reports
-Explore input/output tools, shortcuts, and help functions
+* Use magic commands (%time, %timeit, %pwd, etc.)
+* Write rich Markdown for documentation and reports
+* Explore input/output tools, shortcuts, and help functions
 
 ---
 
