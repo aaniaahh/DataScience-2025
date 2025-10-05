@@ -19,9 +19,19 @@ By the end, you should feel comfortable turning numbers into insights (and plots
 ---
 
 ## 📚 Notebooks
+1. [01-Types_of_Data.ipynb]()
+2. [02-Summary_Statistics.ipynb]()	
+3. [03-Matplotlib_Basics.ipynb]()	
+4. [04-Seaborn_Basics.ipynb]()	
+5. [05-Visualization_Mini-Lab.ipynb]()
 
- [01-Types_of_Data.ipynb]()
-[02-Summary_Statistics]	
-* Matplotlib Basics	
-* Seaborn Basics	
-* Visualization Mini-Lab
+## 🛠️ Tools & Libraries
+* Pandas → data handling and summary statistics
+* Matplotlib → foundational plotting library
+* Seaborn → high-level visualization built on Matplotlib
+
+Make sure you have Seaborn installed:
+
+```markdown
+pip install seaborn
+```
