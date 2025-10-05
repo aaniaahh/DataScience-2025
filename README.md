@@ -1,4 +1,8 @@
-# DataScience-2025
+# Data Science - Fall '25
+
+A data science class focuses on using mathematical, statistical, and computational methods to extract meaningful insights from large datasets, enabling data-driven decision-making and prediction. We will learn programming, machine learning algorithms, and data visualization to find hidden patterns and trends that solve real-world problems.
+
+---
 
 ## 🎯 Course Goals
 This course integrates hands-on coding with conceptual understanding and light math intuition, ideal for young programmers or non-CS majors. It is also 
@@ -9,7 +13,7 @@ This course integrates hands-on coding with conceptual understanding and light m
 ---
 
 # 📂 Assignments
-The worksheets and mini quizzes will be located in the [Assignments](https://github.com/aaniaahh/DataScience-2025/tree/main/Assignments) folder.
+The worksheets and mini-quizzes will be located in the [Assignments](https://github.com/aaniaahh/DataScience-2025/tree/main/Assignments) folder.
 
 
 ---
