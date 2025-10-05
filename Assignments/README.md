@@ -66,6 +66,8 @@ This directory contains all assignments for the course, organized by topic and p
 * Create, rename, drop, sort, and filter columns
 * Practice through a guided wrangling lab
 
+---
+
 ## 🧼 07-Describing_and_Visualizing_Data
 **Focus:**
 
