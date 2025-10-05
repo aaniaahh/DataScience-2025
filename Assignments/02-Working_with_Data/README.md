@@ -1,4 +1,4 @@
-# 📂 Module 02: Working with Data
+# 📊 Module 02: Working with Data
 
 In this module, you'll learn how to manipulate and explore Python collections: lists, dictionaries, and tuples. These are the essential data containers used in real-world data science tasks.
 

@@ -1,4 +1,4 @@
-# Module 07 - Describing and Visualizing Data
+# 🧼 Module 07 - Describing and Visualizing Data
 
 ## 📖 Overview
 This week we move beyond raw numbers and start making sense of data through **description** and **visualization**.

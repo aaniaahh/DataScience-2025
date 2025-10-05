@@ -1,4 +1,4 @@
-# 📂 Module 04: Loops and Iteration
+# 🔁 Module 04: Loops and Iteration
 
 This module explores looping in Python using `for` and `while` loops. You'll also learn about 
 `range()`, iterable objects like lists and dictionaries, and the `with` construct (context managers) for reading files and other structured repetition.

@@ -1,4 +1,4 @@
-# 📘 01 - Getting Started
+# 🚀 01 - Getting Started
 
 This assignment guided us through opening, editing, and saving a Jupyter Notebook using Google Colab.
 

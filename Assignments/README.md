@@ -50,7 +50,7 @@ This directory contains all assignments for the course, organized by topic and p
 ---
 
 ## 🧱 05-Foundations
-Focus: Productivity and tooling inside Jupyter Notebooks.
+**Focus:** Productivity and tooling inside Jupyter Notebooks.
 
 * Use magic commands (%time, %timeit, %pwd, etc.)
 * Write rich Markdown for documentation and reports
@@ -58,12 +58,15 @@ Focus: Productivity and tooling inside Jupyter Notebooks.
 
 ---
 
-## 🧼 06-Working_with_Data
-Focus: Real-world data wrangling using pandas.
+## 🧰 06-Working_with_Data
+**Focus:** Real-world data wrangling using pandas.
+
 * Load CSVs and inspect structure
 * Handle missing values and incorrect types
 * Create, rename, drop, sort, and filter columns
 * Practice through a guided wrangling lab
+
+## 🧼 07-Describing_and_Visualizing_Data
 
 ---
 

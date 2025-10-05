@@ -1,4 +1,4 @@
-# 🏗️ Foundations
+# 🧱 Foundations
 
 This folder contains the Foundations notebooks for the Programming for Data Science course.
 These lessons move beyond basic Python and introduce Jupyter, data handling, plotting, and performance awareness.

@@ -1,4 +1,4 @@
-# 📂 Module 03: Scalar Types and Control Flow
+# ⚙️ Module 03: Scalar Types and Control Flow
 
 This module combines a review of scalar data types (`int`, `float`, `str`, `bool`) with an introduction to Python control flow using `if`, `elif`, and `else`.
 
