@@ -4,7 +4,6 @@ This directory contains all assignments for the course, organized by topic and p
 ---
 
 ## 🧭 00-StartHere
-```diff
 **Purpose:** Help you get your environment set up and learn how to use GitHub, Colab, and Jupyter Notebooks effectively.
 
 
