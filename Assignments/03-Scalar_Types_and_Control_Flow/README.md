@@ -4,6 +4,10 @@ This module combines a review of scalar data types (`int`, `float`, `str`, `bool
 
 ---
 
+## 📕 Glossary
+
+---
+
 ## 🔗 Assignments
 | Notebook |	Description |
 |-----|----------|

@@ -4,6 +4,10 @@ In this module, you'll learn how to manipulate and explore Python collections: l
 
 ---
 
+## 📕 Glossary
+
+---
+
 ## 🔗 Assignments
 | Notebook |	Description |
 |-----|----------|

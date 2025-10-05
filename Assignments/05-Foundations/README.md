@@ -33,11 +33,15 @@ Compare runtime of loops, list comprehensions, and NumPy with `%timeit`.
 
 ---
 
+## 📕 Glossary
+
+[Foundations_Glossary.md](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/05-Foundations/glossary.md) – Key terms and definitions for quick reference.
+
+---
+
 ## 📝 Assessment
 
 [Foundations_Quiz.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/05-Foundations/Foundations_Quiz.ipynb) – 10 questions covering all Foundations topics.
-
-[Foundations_Glossary.md](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/05-Foundations/glossary.md) – Key terms and definitions for quick reference.
 
 ---
 

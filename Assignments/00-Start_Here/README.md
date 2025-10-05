@@ -4,5 +4,10 @@ This sasignment had us set up everything I needed for the course. By the end, I 
 
 ---
 
+## 📕 Glossary
+
+---
+
 ## 📚 Notebook
 [01_Colab_Intro.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/00-Start_Here/01_Colab_Intro.ipynb)
+

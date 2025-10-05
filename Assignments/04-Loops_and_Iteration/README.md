@@ -5,6 +5,10 @@ This module explores looping in Python using `for` and `while` loops. You'll als
 
 ---
 
+## 📕 Glossary
+
+---
+
 ## 🔗 Assignments
 
 |Notebook	| Description|
