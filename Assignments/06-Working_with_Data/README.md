@@ -18,14 +18,14 @@ Prepare a dataset for visualization or modeling
 ---
 
 ## 📚 Notebooks
-[01-lists_dicts_and_tuples.ipynb]()	
-[02-pandas_series_and_dataframes.ipynb]()	
-[03-loading_and_exploring_data.ipynb]()	
-[04-indexing_and_selection.ipynb]()	
-[05-basic_cleaning.ipynb]()	
-[06-column_operations.ipynb]()	
-[07-sorting_and_filtering.ipynb]()
-[08-pandas_wrangle_lab.ipynb]
+1. [01-lists_dicts_and_tuples.ipynb]()	
+2. [02-pandas_series_and_dataframes.ipynb]()	
+3. [03-loading_and_exploring_data.ipynb]()	
+4.[04-indexing_and_selection.ipynb]()	
+5. [05-basic_cleaning.ipynb]()	
+6. [06-column_operations.ipynb]()	
+7. [07-sorting_and_filtering.ipynb]()
+8. [08-pandas_wrangle_lab.ipynb]
 
 ---
 
