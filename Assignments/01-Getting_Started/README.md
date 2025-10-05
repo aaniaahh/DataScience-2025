@@ -10,7 +10,7 @@ In this assignment folder, we will be
 * Colab Badge Template
 
 ## 📚 Notebook
-[Notebook1.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/01-Getting_Started/Notebook1.ipynb)
+[Notebook1.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/01-Getting_Started/Notebook1.ipynb) - Data Type, Operator, and Variable Review
 
 ---
 
