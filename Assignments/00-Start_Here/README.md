@@ -6,6 +6,8 @@ This sasignment had us set up everything I needed for the course. By the end, I 
 
 ## 📕 Glossary
 
+[Getting Started Glossary](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/00-Start_Here/glossary.md) – Key terms and definitions for quick reference.
+
 ---
 
 ## 📚 Notebook

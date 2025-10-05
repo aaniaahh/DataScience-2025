@@ -17,6 +17,12 @@ Prepare a dataset for visualization or modeling
 
 ---
 
+## 📕 Glossary
+
+[Foundations_Glossary.md](https://github.com/rugbyprof/3603-Programming-for-Data-Science/blob/main/Assignments/06-Working_with_Data/glossary.md) – Key terms and definitions for quick reference.
+
+---
+
 ## 📚 Notebooks
 1. [01-lists_dicts_and_tuples.ipynb]()	
 2. [02-pandas_series_and_dataframes.ipynb]()	

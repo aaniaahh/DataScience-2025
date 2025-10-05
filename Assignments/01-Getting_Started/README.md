@@ -11,3 +11,13 @@ In this assignment folder, we will be
 
 ## 📚 Notebook
 [Notebook1.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/01-Getting_Started/Notebook1.ipynb)
+
+---
+
+## 📝 Worsheet
+[Worksheet](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/01-Getting_Started/worksheet.md)
+
+---
+
+## 🤔✏️ Quiz
+[Quiz](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/01-Getting_Started/mini_quiz.md)

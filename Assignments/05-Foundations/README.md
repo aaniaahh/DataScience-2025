@@ -5,6 +5,12 @@ These lessons move beyond basic Python and introduce Jupyter, data handling, plo
 
 ---
 
+## 📕 Glossary
+
+[Foundations_Glossary.md](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/05-Foundations/glossary.md) – Key terms and definitions for quick reference.
+
+---
+
 ## 📚 Notebooks
 
 1. [01-magic_commands.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/05-Foundations/01_magic_commands.ipynb)
@@ -33,13 +39,7 @@ Compare runtime of loops, list comprehensions, and NumPy with `%timeit`.
 
 ---
 
-## 📕 Glossary
-
-[Foundations_Glossary.md](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/05-Foundations/glossary.md) – Key terms and definitions for quick reference.
-
----
-
-## 📝 Assessment
+## 🤔✏️ Quiz
 
 [Foundations_Quiz.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/05-Foundations/Foundations_Quiz.ipynb) – 10 questions covering all Foundations topics.
 
