@@ -56,3 +56,10 @@ By now, you should feel confident:
 * UFO Sightings (`data/ufo.csv`)
 * Iris Dataset (`seaborn.load_dataset("iris")`)
 * Students (`data/students.csv` or `data/students.json`)
+
+--- 
+
+## 🛠️ Tips
+* Try chaining methods (`df[df.col > 5].sort_values("col2")`) but don’t be afraid to split steps for clarity.
+* Use `.copy()` when slicing to avoid `SettingWithCopyWarning`.
+* Use `%timeit` to compare loops vs. vectorized filters.
