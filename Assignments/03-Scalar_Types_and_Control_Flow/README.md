@@ -20,13 +20,13 @@ This module combines a review of scalar data types (`int`, `float`, `str`, `bool
 
 ## 📝 Worsheet
 
-[Worksheet](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/03-Scalar_Types_and_Control_Flow/worksheet.md)
+[Worksheet](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/03-Scalar_Types_and_Control_Flow/worksheet.md) - Guidance through key tasks.
 
 ---
 
 ## 🤔✏️ Quiz
 
-[Quiz](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/03-Scalar_Types_and_Control_Flow/mini_quiz.md)
+[Quiz](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/03-Scalar_Types_and_Control_Flow/mini_quiz.md) – Test your knowledge!
 
 ---
 

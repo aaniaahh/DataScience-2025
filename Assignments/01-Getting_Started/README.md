@@ -15,9 +15,9 @@ In this assignment folder, we will be
 ---
 
 ## 📝 Worsheet
-[Worksheet](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/01-Getting_Started/worksheet.md)
+[Worksheet](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/01-Getting_Started/worksheet.md) - Guidance through key tasks.
 
 ---
 
 ## 🤔✏️ Quiz
-[Quiz](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/01-Getting_Started/mini_quiz.md)
+[Quiz](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/01-Getting_Started/mini_quiz.md) – Test your knowledge!

@@ -23,13 +23,13 @@ This module explores looping in Python using `for` and `while` loops. You'll als
 
 ## 📝 Worsheet
 
-[Worksheet](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/04-Loops_and_Iteration/worksheet.md)
+[Worksheet](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/04-Loops_and_Iteration/worksheet.md) - Guidance through key tasks.
 
 ---
 
 ## 🤔✏️ Quiz
 
-[Quiz](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/04-Loops_and_Iteration/mini_quiz.md)
+[Quiz](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/04-Loops_and_Iteration/mini_quiz.md) – Test your knowledge!
 
 ---
 

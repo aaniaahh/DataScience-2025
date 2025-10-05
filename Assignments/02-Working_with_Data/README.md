@@ -21,12 +21,13 @@ In this module, you'll learn how to manipulate and explore Python collections: l
 
 ## 📝 Worsheet
 
-[Worksheet](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/02-Working_with_Data/worksheet.md)
+[Worksheet](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/02-Working_with_Data/worksheet.md) - Guidance through key tasks.
+
 ---
 
 ## 🤔✏️ Quiz
 
-[Quiz](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/02-Working_with_Data/mini_quiz.md)
+[Quiz](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/02-Working_with_Data/mini_quiz.md) – Test your knowledge!
 
 ---
 
