@@ -14,27 +14,35 @@ These lessons move beyond basic Python and introduce Jupyter, data handling, plo
 ## 📚 Notebooks
 
 1. [01-magic_commands.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/05-Foundations/01_magic_commands.ipynb)
+
 Explore IPython magic commands like `%time`, `%pwd`, and `%whos`.
 
 2. [02-markdown_and_formatting.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/05-Foundations/02_markdown_and_formatting.ipynb)
+
 Learn Markdown basics: headings, lists, links, images, and LaTeX math.
 
 3. [03-working_with_files_and_paths.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/05-Foundations/03_working_with_files_and_paths.ipynb)
+
 Work with files and directories using `%pwd`, `open()`, JSON, and CSV.
 
 4. [04-data_input_output.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/05-Foundations/04_data_input_output.ipynb)
+
 Use Pandas to read and write CSV/Excel files and explore DataFrames.
 
 5. [05-plotting_basics.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/05-Foundations/05_plotting_basics.ipynb)
+
 Create simple plots with Matplotlib: line, scatter, and bar charts.
 
 6. [06-jupyter_shortcuts_and_productivity.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/05-Foundations/06_jupyter_shortcuts_and_productivity.ipynb)
+
 Learn Jupyter shortcuts, command vs edit mode, and `%history`.
 
 7. [07-using_help_and_docs.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/05-Foundations/07_using_help_and_docs.ipynb)
+
 Use `?`, `??`, `help()`, and tab completion to explore documentation.
 
 8. [08-timing_and_performance.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/05-Foundations/08_timing_and_performance.ipynb)
+
 Compare runtime of loops, list comprehensions, and NumPy with `%timeit`.
 
 ---
