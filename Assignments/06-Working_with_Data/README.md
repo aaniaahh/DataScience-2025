@@ -24,10 +24,10 @@ Prepare a dataset for visualization or modeling
 ---
 
 ## 📚 Notebooks
-1. [01-lists_dicts_and_tuples.ipynb]()	
-2. [02-pandas_series_and_dataframes.ipynb]()	
-3. [03-loading_and_exploring_data.ipynb]()	
-4. [04-indexing_and_selection.ipynb]()	
+1. [01-lists_dicts_and_tuples.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/06-Working_with_Data/01_lists_dicts_and_tuples.ipynb)	
+2. [02-pandas_series_and_dataframes.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/06-Working_with_Data/02_pandas_series_and_dataframes.ipynb)	
+3. [03-loading_and_exploring_data.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/06-Working_with_Data/03_loading_and_exploring_data.ipynb)	
+4. [04-indexing_and_selection.ipynb](https://github.com/aaniaahh/DataScience-2025/blob/main/Completed/06-Working_with_Data/04_indexing_and_selection.ipynb)	
 5. [05-basic_cleaning.ipynb]()	
 6. [06-column_operations.ipynb]()	
 7. [07-sorting_and_filtering.ipynb]()
