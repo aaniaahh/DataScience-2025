@@ -3,11 +3,12 @@
 ## 1️⃣ Types of Data
 * **Quantitative Data**: Numeric values that can be measured (e.g., height, income).
 * **Qualitative (Categorical) Data**: Non-numeric categories or labels (e.g., color, gender).
-Discrete Data: Countable values (e.g., number of students).
-Continuous Data: Measurable values within a range (e.g., weight, time).
-Nominal Data: Categories without order (e.g., eye color).
-Ordinal Data: Ordered categories (e.g., small, medium, large).
-2️⃣ Summary Statistics
+* **Discrete Data**: Countable values (e.g., number of students).
+* **Continuous Data**: Measurable values within a range (e.g., weight, time).
+* **Nominal Data**: Categories without order (e.g., eye color).
+* **Ordinal Data**: Ordered categories (e.g., small, medium, large).
+
+## 2️⃣ Summary Statistics
 Mean: The arithmetic average of a dataset.
 Median: The middle value when data are ordered.
 Mode: The most frequent value in a dataset.

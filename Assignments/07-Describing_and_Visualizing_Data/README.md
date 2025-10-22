@@ -19,7 +19,7 @@ By the end, you should feel comfortable turning numbers into insights (and plots
 ---
 
 ## 📕 Glossary
-[Glossary.md]()
+[Glossary.md](https://github.com/aaniaahh/DataScience-2025/blob/main/Assignments/07-Describing_and_Visualizing_Data/glossary.md)
 
 ---
 
