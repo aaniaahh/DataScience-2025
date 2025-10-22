@@ -18,6 +18,11 @@ By the end, you should feel comfortable turning numbers into insights (and plots
 
 ---
 
+## 📕 Glossary
+[Glossary.md]()
+
+---
+
 ## 📚 Notebooks
 1. [01-Types_of_Data.ipynb]()
 2. [02-Summary_Statistics.ipynb]()	
