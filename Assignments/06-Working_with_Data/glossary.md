@@ -1,4 +1,4 @@
-# 📚 Glossary – Module 06: Working with Data
+# 📚 Glossary – Working with Data
 
 This glossary covers key terms from working with core Python containers and Pandas for data manipulation.
 
