@@ -28,8 +28,8 @@ This glossary covers key terms from working with core Python containers and Pand
 * `.dropna()`: Drops rows or columns with missing values.
 * `.fillna()`: Fills missing values with specified constant or method.
 * `.isnull()` / `.notnull():` Boolean mask of missing or present data.
-* `pd.to_numeric()`: Converts a Series to numeric type; can coerce errors to NaN.
 * `pd.to_datetime()`: Converts string/object to datetime format.
+* `pd.to_numeric()`: Converts a Series to numeric type; can coerce errors to NaN.
 * **Missing Value** (`NaN`): A placeholder for missing or null entries.
 
 ---
