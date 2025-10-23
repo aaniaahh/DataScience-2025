@@ -24,16 +24,24 @@ By the end, you should feel comfortable turning numbers into insights (and plots
 ---
 
 ## 📚 Notebooks
-1. [01-Types_of_Data.ipynb]()
-2. [02-Summary_Statistics.ipynb]()	
-3. [03-Matplotlib_Basics.ipynb]()	
-4. [04-Seaborn_Basics.ipynb]()	
-5. [05-Visualization_Mini-Lab.ipynb]()
+1. [01-Types_of_Data.ipynb]() - Classify variables into nominal, ordinal, interval, and ratio scales.
+
+2. [02-Summary_Statistics.ipynb]() - Compute central tendency, dispersion, skewness, and more.
+
+3. [03-Matplotlib_Basics.ipynb]() - Learn the anatomy of a plot and create simple visualizations.
+
+4. [04-Seaborn_Basics.ipynb]() - Explore Seaborn for cleaner, more powerful charts with less code.
+
+5. [05-Visualization_Mini-Lab.ipynb]() - Apply your skills to explore trends and outliers in a dataset.
+
+---
 
 ## 🛠️ Tools & Libraries
 * Pandas → data handling and summary statistics
 * Matplotlib → foundational plotting library
 * Seaborn → high-level visualization built on Matplotlib
+
+---
 
 Make sure you have Seaborn installed:
 
